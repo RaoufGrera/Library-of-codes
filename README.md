@@ -13,8 +13,6 @@ https://github.com/RaoufGrera/Library-of-codes/releases/download/untagged-082a47
 <br />
 **Screenshots**
 <br />
-![splash-screen](https://raw.githubusercontent.com/RaoufGrera/Library-of-codes/main/library-of-codes-splash-screen.jpg)
-<br />
 ![library-of-codes](https://raw.githubusercontent.com/RaoufGrera/Library-of-codes/main/library-of-codes-1.png.png)
 <br />
 ![library-of-codes-2](https://raw.githubusercontent.com/RaoufGrera/Library-of-codes/main/library-of-codes-2.png)
