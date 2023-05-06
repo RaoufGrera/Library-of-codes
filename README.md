@@ -9,7 +9,7 @@ This program was developed in 2012 when I was in my second year of studies in th
 C#, Windows Forms, MS-Access.
 
 **Download**<br />
-https://github.com/RaoufGrera/Library-of-codes/releases/download/untagged-082a47ad70787991ab36/Library.of.Codes.msi
+https://github.com/RaoufGrera/Library-of-codes/releases/download/untagged-082a47ad70787991ab36/Library.of.Codes.msi <br />
 <br />
 **Screenshots**
 <br />
